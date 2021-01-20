@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wwi-caves/precache-manifest.74df5e24252475bd57528c1dd840e6de.js"
+  "/wwi-caves/precache-manifest.e93141fe19587a1065ad9aaf41f0fd68.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "925c1c3481e345ae20f2492d7dd115cc",
+    "revision": "4d770d93dfeddf980ddc9f67a4adbe98",
     "url": "/wwi-caves/index.html"
   },
   {
-    "revision": "76415e038172aab91d11",
+    "revision": "09b39b2d76d8bafe4201",
     "url": "/wwi-caves/static/css/main.444ab1b5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wwi-caves/static/js/2.38c050c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76415e038172aab91d11",
-    "url": "/wwi-caves/static/js/main.112887f0.chunk.js"
+    "revision": "09b39b2d76d8bafe4201",
+    "url": "/wwi-caves/static/js/main.19128624.chunk.js"
   },
   {
     "revision": "f3675f4f2fac6209e993",
