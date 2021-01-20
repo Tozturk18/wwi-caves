@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wwi-caves/static/css/main.444ab1b5.chunk.css",
+    "main.js": "/wwi-caves/static/js/main.112887f0.chunk.js",
+    "main.js.map": "/wwi-caves/static/js/main.112887f0.chunk.js.map",
+    "runtime-main.js": "/wwi-caves/static/js/runtime-main.10c14317.js",
+    "runtime-main.js.map": "/wwi-caves/static/js/runtime-main.10c14317.js.map",
+    "static/js/2.38c050c7.chunk.js": "/wwi-caves/static/js/2.38c050c7.chunk.js",
+    "static/js/2.38c050c7.chunk.js.map": "/wwi-caves/static/js/2.38c050c7.chunk.js.map",
+    "index.html": "/wwi-caves/index.html",
+    "precache-manifest.74df5e24252475bd57528c1dd840e6de.js": "/wwi-caves/precache-manifest.74df5e24252475bd57528c1dd840e6de.js",
+    "service-worker.js": "/wwi-caves/service-worker.js",
+    "static/css/main.444ab1b5.chunk.css.map": "/wwi-caves/static/css/main.444ab1b5.chunk.css.map",
+    "static/js/2.38c050c7.chunk.js.LICENSE.txt": "/wwi-caves/static/js/2.38c050c7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/wwi-caves/static/media/ampersand.e48fca86.woff2",
+    "static/media/greenFlag.gif": "/wwi-caves/static/media/greenFlag.43f0ba9e.gif",
+    "static/media/home.gif": "/wwi-caves/static/media/home.1469e6fe.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10c14317.js",
+    "static/js/2.38c050c7.chunk.js",
+    "static/css/main.444ab1b5.chunk.css",
+    "static/js/main.112887f0.chunk.js"
+  ]
+}
