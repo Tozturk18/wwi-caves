@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/wwi-caves/static/css/main.15db0241.chunk.css",
-    "main.js": "/wwi-caves/static/js/main.5992ee6b.chunk.js",
-    "main.js.map": "/wwi-caves/static/js/main.5992ee6b.chunk.js.map",
+    "main.css": "/wwi-caves/static/css/main.65fa8850.chunk.css",
+    "main.js": "/wwi-caves/static/js/main.ca5d62ce.chunk.js",
+    "main.js.map": "/wwi-caves/static/js/main.ca5d62ce.chunk.js.map",
     "runtime-main.js": "/wwi-caves/static/js/runtime-main.5fe6135a.js",
     "runtime-main.js.map": "/wwi-caves/static/js/runtime-main.5fe6135a.js.map",
     "static/js/2.acec10c1.chunk.js": "/wwi-caves/static/js/2.acec10c1.chunk.js",
     "static/js/2.acec10c1.chunk.js.map": "/wwi-caves/static/js/2.acec10c1.chunk.js.map",
     "index.html": "/wwi-caves/index.html",
-    "static/css/main.15db0241.chunk.css.map": "/wwi-caves/static/css/main.15db0241.chunk.css.map",
+    "static/css/main.65fa8850.chunk.css.map": "/wwi-caves/static/css/main.65fa8850.chunk.css.map",
     "static/js/2.acec10c1.chunk.js.LICENSE.txt": "/wwi-caves/static/js/2.acec10c1.chunk.js.LICENSE.txt",
     "static/media/index.css": "/wwi-caves/static/media/ampersand.1c7f8ba1.woff2",
     "static/media/App.css": "/wwi-caves/static/media/pano.1e19c273.gif"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.5fe6135a.js",
     "static/js/2.acec10c1.chunk.js",
-    "static/css/main.15db0241.chunk.css",
-    "static/js/main.5992ee6b.chunk.js"
+    "static/css/main.65fa8850.chunk.css",
+    "static/js/main.ca5d62ce.chunk.js"
   ]
 }
