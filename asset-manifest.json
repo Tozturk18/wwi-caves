@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ffab036.chunk.css",
-    "main.js": "/static/js/main.d049df93.chunk.js",
-    "main.js.map": "/static/js/main.d049df93.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f3c3d6fd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f3c3d6fd.js.map",
-    "static/js/2.acec10c1.chunk.js": "/static/js/2.acec10c1.chunk.js",
-    "static/js/2.acec10c1.chunk.js.map": "/static/js/2.acec10c1.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.4ffab036.chunk.css.map": "/static/css/main.4ffab036.chunk.css.map",
-    "static/js/2.acec10c1.chunk.js.LICENSE.txt": "/static/js/2.acec10c1.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/ampersand.1c7f8ba1.woff2",
-    "static/media/App.css": "/static/media/pano.1e19c273.gif"
+    "main.css": "/wwi-caves/static/css/main.444ab1b5.chunk.css",
+    "main.js": "/wwi-caves/static/js/main.19128624.chunk.js",
+    "main.js.map": "/wwi-caves/static/js/main.19128624.chunk.js.map",
+    "runtime-main.js": "/wwi-caves/static/js/runtime-main.10c14317.js",
+    "runtime-main.js.map": "/wwi-caves/static/js/runtime-main.10c14317.js.map",
+    "static/js/2.38c050c7.chunk.js": "/wwi-caves/static/js/2.38c050c7.chunk.js",
+    "static/js/2.38c050c7.chunk.js.map": "/wwi-caves/static/js/2.38c050c7.chunk.js.map",
+    "index.html": "/wwi-caves/index.html",
+    "precache-manifest.e93141fe19587a1065ad9aaf41f0fd68.js": "/wwi-caves/precache-manifest.e93141fe19587a1065ad9aaf41f0fd68.js",
+    "service-worker.js": "/wwi-caves/service-worker.js",
+    "static/css/main.444ab1b5.chunk.css.map": "/wwi-caves/static/css/main.444ab1b5.chunk.css.map",
+    "static/js/2.38c050c7.chunk.js.LICENSE.txt": "/wwi-caves/static/js/2.38c050c7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/wwi-caves/static/media/ampersand.e48fca86.woff2",
+    "static/media/greenFlag.gif": "/wwi-caves/static/media/greenFlag.43f0ba9e.gif",
+    "static/media/home.gif": "/wwi-caves/static/media/home.1469e6fe.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3c3d6fd.js",
-    "static/js/2.acec10c1.chunk.js",
-    "static/css/main.4ffab036.chunk.css",
-    "static/js/main.d049df93.chunk.js"
+    "static/js/runtime-main.10c14317.js",
+    "static/js/2.38c050c7.chunk.js",
+    "static/css/main.444ab1b5.chunk.css",
+    "static/js/main.19128624.chunk.js"
   ]
 }
