@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/wwi-caves/static/css/main.2789fd6f.chunk.css",
-    "main.js": "/wwi-caves/static/js/main.47f3fc5f.chunk.js",
-    "main.js.map": "/wwi-caves/static/js/main.47f3fc5f.chunk.js.map",
+    "main.css": "/wwi-caves/static/css/main.51ba2776.chunk.css",
+    "main.js": "/wwi-caves/static/js/main.0bf21715.chunk.js",
+    "main.js.map": "/wwi-caves/static/js/main.0bf21715.chunk.js.map",
     "runtime-main.js": "/wwi-caves/static/js/runtime-main.5fe6135a.js",
     "runtime-main.js.map": "/wwi-caves/static/js/runtime-main.5fe6135a.js.map",
     "static/js/2.acec10c1.chunk.js": "/wwi-caves/static/js/2.acec10c1.chunk.js",
     "static/js/2.acec10c1.chunk.js.map": "/wwi-caves/static/js/2.acec10c1.chunk.js.map",
     "index.html": "/wwi-caves/index.html",
-    "static/css/main.2789fd6f.chunk.css.map": "/wwi-caves/static/css/main.2789fd6f.chunk.css.map",
+    "static/css/main.51ba2776.chunk.css.map": "/wwi-caves/static/css/main.51ba2776.chunk.css.map",
     "static/js/2.acec10c1.chunk.js.LICENSE.txt": "/wwi-caves/static/js/2.acec10c1.chunk.js.LICENSE.txt",
+    "static/media/IDcard.8006fff7.svg": "/wwi-caves/static/media/IDcard.8006fff7.svg",
+    "static/media/Yankee_Division.2a2ee4f1.svg": "/wwi-caves/static/media/Yankee_Division.2a2ee4f1.svg",
+    "static/media/about.11ec37fd.svg": "/wwi-caves/static/media/about.11ec37fd.svg",
     "static/media/index.css": "/wwi-caves/static/media/ampersand.1c7f8ba1.woff2",
-    "static/media/greenFlag.c100d14f.gif": "/wwi-caves/static/media/greenFlag.c100d14f.gif"
+    "static/media/background.3551c6be.jpg": "/wwi-caves/static/media/background.3551c6be.jpg",
+    "static/media/pilgrimageToken.c14b3f03.png": "/wwi-caves/static/media/pilgrimageToken.c14b3f03.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5fe6135a.js",
     "static/js/2.acec10c1.chunk.js",
-    "static/css/main.2789fd6f.chunk.css",
-    "static/js/main.47f3fc5f.chunk.js"
+    "static/css/main.51ba2776.chunk.css",
+    "static/js/main.0bf21715.chunk.js"
   ]
 }
