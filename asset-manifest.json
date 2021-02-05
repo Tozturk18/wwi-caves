@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wwi-caves/static/css/main.fc1d9329.chunk.css",
-    "main.js": "/wwi-caves/static/js/main.844127ee.chunk.js",
-    "main.js.map": "/wwi-caves/static/js/main.844127ee.chunk.js.map",
+    "main.js": "/wwi-caves/static/js/main.ede04637.chunk.js",
+    "main.js.map": "/wwi-caves/static/js/main.ede04637.chunk.js.map",
     "runtime-main.js": "/wwi-caves/static/js/runtime-main.5fe6135a.js",
     "runtime-main.js.map": "/wwi-caves/static/js/runtime-main.5fe6135a.js.map",
     "static/js/2.9213e79b.chunk.js": "/wwi-caves/static/js/2.9213e79b.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.5fe6135a.js",
     "static/js/2.9213e79b.chunk.js",
     "static/css/main.fc1d9329.chunk.css",
-    "static/js/main.844127ee.chunk.js"
+    "static/js/main.ede04637.chunk.js"
   ]
 }
